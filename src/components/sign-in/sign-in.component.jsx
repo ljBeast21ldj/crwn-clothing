@@ -49,7 +49,6 @@ class SignIn extends React.Component {
                     label='Email'
                     required />
                     
-                    
                     <FormInput 
                     name='password'
                     type='password'
